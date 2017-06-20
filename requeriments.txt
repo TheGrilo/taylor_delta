@@ -1,1 +1,2 @@
-Telepot
+$python -m pip install telepot
+
